@@ -31,7 +31,7 @@ function About() {
         </li>
         <li>
           A <strong>demo and playground</strong> for the&nbsp;
-          <a href="https://azure.microsoft.com/en-us/services/app-service/static/?ocid=aid3040965">
+          <a href="https://azure.microsoft.com/en-us/services/app-service/static/?ocid=aid3042057">
             Azure Static Web Apps (SWA)
           </a>
           &nbsp; service.
@@ -59,7 +59,7 @@ function About() {
       <ul>
         <li>
           <b>Authentication</b> |&nbsp;
-          <a href="https://docs.microsoft.com/en-us/azure/static-web-apps/authentication-authorization?ocid=aid3040965">
+          <a href="https://docs.microsoft.com/en-us/azure/static-web-apps/authentication-authorization?ocid=aid3042057">
             Documentation
           </a>
           <pre>/login</pre>
@@ -108,7 +108,7 @@ function About() {
         </li>
         <li>
           <b>Routes</b> |&nbsp;
-          <a href="https://docs.microsoft.com/en-us/azure/static-web-apps/routes?ocid=aid3040965">
+          <a href="https://docs.microsoft.com/en-us/azure/static-web-apps/routes?ocid=aid3042057">
             Documentation
           </a>
           <p>
@@ -157,12 +157,12 @@ function About() {
           </a>
         </li>
         <li>
-          <a href="https://docs.microsoft.com/en-us/azure/static-web-apps/front-end-frameworks/?ocid=aid3040965">
+          <a href="https://docs.microsoft.com/en-us/azure/static-web-apps/front-end-frameworks/?ocid=aid3042057">
             Sample configuration for the frontend frameworks
           </a>
         </li>
         <li>
-          <a href="https://azure.microsoft.com/en-us/services/app-service/static/?ocid=aid3040965">
+          <a href="https://azure.microsoft.com/en-us/services/app-service/static/?ocid=aid3042057">
             Static Web Apps on Azure - landing page
           </a>
         </li>
@@ -187,7 +187,7 @@ function About() {
           </a>
         </li>
         <li>
-          <a href="https://docs.microsoft.com/en-us/azure/static-web-apps/add-api?ocid=aid3040965">
+          <a href="https://docs.microsoft.com/en-us/azure/static-web-apps/add-api?ocid=aid3042057">
             Creating API Documentation
           </a>
         </li>
